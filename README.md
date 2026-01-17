@@ -9,14 +9,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;Angular+%7C+TypeScript;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;Angular+%7C+TypeScript;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-```typescript
+``typescript
 const deyveson = {
   location: "Brasil 🇧🇷",
   role: "Desenvolvedor Full Stack",
@@ -48,7 +48,7 @@ const deyveson = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
@@ -101,13 +101,13 @@ const deyveson = {
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deyveson&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/? user=Deyveson&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deyveson&theme=radical&hide_border=true" />
   
 </div>
 
 <div align="center">
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Deyveson&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyveson&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   
 </div>
 
@@ -201,7 +201,7 @@ public class CurrentStatus {
             "DevOps"
         ));
         
-        System.out.println("Sempre aprendendo e evoluindo!  🚀");
+        System.out.println("Sempre aprendendo e evoluindo! 🚀");
     }
 }
 ```
@@ -212,7 +212,7 @@ public class CurrentStatus {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/deyvesonwillian/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvesonwillian/)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyvesonn@outlook.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
@@ -257,14 +257,14 @@ Music: Lofi Beats 🎧
 
 <div align="center">
   
-  ### 💭 Frase do Dia
+  ### 💭 Frase do Dia  
   
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House** 
+  **"Code is like humor. When you have to explain it, it's bad." – Cory House**   
   
-  ---
+  ---  
   
-  **⭐ De [Deyveson](https://github.com/Deyveson) com 💜**
+  **⭐ De [Deyveson](https://github.com/Deyveson) com 💜**  
   
-  ![Visitor Count](https://profile-counter.glitch.me/Deyveson/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Deyveson/count.svg)  
   
 </div>
