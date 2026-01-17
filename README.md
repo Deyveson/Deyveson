@@ -99,9 +99,9 @@ const deyveson = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20? style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000? style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 🏗️ Arquitetura & Padrões
@@ -249,12 +249,12 @@ Projetos desenvolvidos com Laravel, explorando recursos avançados do framework 
 ### 📌 [fluxor-front-end](https://github.com/Deyveson/fluxor-front-end)
 **Sistema de Atendimento - Frontend**
 
-Aplicação Angular moderna com Material Design para gerenciamento de fluxo de atendimento.
+Aplicação Angular moderna com Material Design para gerenciamento de fluxo de atendimento. 
 
 **🔧 Tecnologias:** 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Material](https://img.shields.io/badge/Material-0081CB? style=flat-square&logo=material-ui&logoColor=white)
+![Material](https://img.shields.io/badge/Material-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 **✨ Features:**
@@ -334,10 +334,10 @@ public class CurrentStatus {
 ## 💻 Workspace
 
 ```yaml
-OS: Windows/Linux
+OS:  Windows/Linux
 Terminal: Git Bash / Zsh
 Editor: VS Code / IntelliJ IDEA
-Theme:  Dark Mode Always
+Theme: Dark Mode Always
 Music: Lofi Beats 🎧
 ```
 
@@ -347,7 +347,7 @@ Music: Lofi Beats 🎧
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/Deyveson/Deyveson/output/github-contribution-grid-snake-dark. svg)
+  ![Snake animation](https://raw.githubusercontent.com/Deyveson/Deyveson/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
