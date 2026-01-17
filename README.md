@@ -86,7 +86,7 @@ const deyveson = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000? style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 🏗️ Arquitetura & Padrões
@@ -123,7 +123,7 @@ const deyveson = {
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deyveson&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/? username=Deyveson&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
   
 </div>
 
@@ -134,7 +134,7 @@ const deyveson = {
 ### 📌 [ws-parking-lot](https://github.com/Deyveson/ws-parking-lot)
 **Sistema de Estacionamento - Backend REST API**
 
-Sistema completo de gerenciamento de estacionamento desenvolvido com Spring Boot, documentado com Swagger e implementado com TDD.
+Sistema completo de gerenciamento de estacionamento desenvolvido com Spring Boot, documentado com Swagger e implementado com TDD. 
 
 **🔧 Tecnologias:** 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -201,7 +201,7 @@ public class CurrentStatus {
             "DevOps"
         ));
         
-        System.out.println("Sempre aprendendo e evoluindo!  🚀");
+        System. out.println("Sempre aprendendo e evoluindo!  🚀");
     }
 }
 ```
@@ -212,9 +212,9 @@ public class CurrentStatus {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/deyvesonwillian/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvesonwillian/)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyvesonn@outlook.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000? style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
   
@@ -237,8 +237,8 @@ public class CurrentStatus {
 
 ```yaml
 OS: Windows/Linux
-Terminal: Git Bash / Zsh
-Editor: VS Code / IntelliJ IDEA
+Terminal:  Git Bash / Zsh
+Editor:  VS Code / IntelliJ IDEA
 Theme: Dark Mode Always
 Music: Lofi Beats 🎧
 ```
@@ -249,7 +249,7 @@ Music: Lofi Beats 🎧
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/Deyveson/Deyveson/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Deyveson/Deyveson/output/github-contribution-grid-snake-dark. svg)
   
 </div>
 
