@@ -1,4 +1,4 @@
-# 👋 Olá!  Eu sou Deyveson 
+# 👋 Olá! Eu sou Deyveson 
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;React+%7C+React+Native;Node.js+%7C+Laravel;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;React+%7C+React+Native;Node.js+%7C+Laravel;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
 </div>
 
 ---
@@ -69,7 +69,7 @@ const deyveson = {
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 #### Frontend
-![React](https://img.shields.io/badge/React-61DAFB? style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -90,10 +90,10 @@ const deyveson = {
 ### 📚 API & Documentation
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D? style=for-the-badge&logo=swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37? style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🔧 Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -117,13 +117,13 @@ const deyveson = {
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deyveson&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/? user=Deyveson&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deyveson&theme=radical&hide_border=true" />
   
 </div>
 
 <div align="center">
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Deyveson&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyveson&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   
 </div>
 
@@ -139,7 +139,7 @@ const deyveson = {
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/? username=Deyveson&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deyveson&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
   
 </div>
 
@@ -195,7 +195,7 @@ API moderna desenvolvida com GraphQL, Apollo Server e Sequelize para gerenciamen
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7? style=flat-square&logo=sequelize&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
 **✨ Features:**
 - ✅ API GraphQL performática
@@ -249,7 +249,7 @@ Projetos desenvolvidos com Laravel, explorando recursos avançados do framework 
 ### 📌 [fluxor-front-end](https://github.com/Deyveson/fluxor-front-end)
 **Sistema de Atendimento - Frontend**
 
-Aplicação Angular moderna com Material Design para gerenciamento de fluxo de atendimento. 
+Aplicação Angular moderna com Material Design para gerenciamento de fluxo de atendimento.
 
 **🔧 Tecnologias:** 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -298,14 +298,14 @@ public class CurrentStatus {
             "Mensageria Distribuída"
         ));
         
-        System.out.println("Sempre aprendendo e evoluindo!  🚀");
+        System.out.println("Sempre aprendendo e evoluindo! 🚀");
     }
 }
 ```
 
 ---
 
-## 📫 Vamos Conectar?  
+## 📫 Vamos Conectar? 
 
 <div align="center">
   
@@ -334,7 +334,7 @@ public class CurrentStatus {
 ## 💻 Workspace
 
 ```yaml
-OS:  Windows/Linux
+OS: Windows/Linux
 Terminal: Git Bash / Zsh
 Editor: VS Code / IntelliJ IDEA
 Theme: Dark Mode Always
@@ -355,14 +355,14 @@ Music: Lofi Beats 🎧
 
 <div align="center">
   
-  ### 💭 Frase do Dia
+  ### 💭 Frase do Dia  
   
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House** 
+  **"Code is like humor. When you have to explain it, it's bad." – Cory House**  
   
-  ---
+  ---  
   
-  **⭐ De [Deyveson](https://github.com/Deyveson) com 💜**
+  **⭐ De [Deyveson](https://github.com/Deyveson) com 💜**  
   
-  ![Visitor Count](https://profile-counter.glitch.me/Deyveson/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Deyveson/count.svg)  
   
 </div>
